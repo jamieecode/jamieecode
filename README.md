@@ -1,6 +1,7 @@
-😄 Hello, I’m Jaewan.
-
-💻 I love programming and interested in web, especially in Front-End side.
+Hello from Seoul!
+I'm Jaewan, a junior Frontend Developer who formerly worked as a journalist in LA.
+Currently I'm on a coding adventure in Seoul's buzzing and vibrant tech scene.
+I love watching movies reading books and articles.
 
 <!---
 jamieecode/jamieecode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
