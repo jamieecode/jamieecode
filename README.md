@@ -26,7 +26,7 @@ I love watching movies reading books and articles. <img src="https://raw.githubu
 
 <div>  
   <img src="https://github-readme-stats.vercel.app/api?username=jamieecode&show_icons=true&theme=tokyonight&hide=stars,contribs&count_private=true" alt="GitHub stats" style="height: 150px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamieecode&layout=compact&theme=tokyonight" alt="Top Langs" style="height: 150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamieecode&layout=compact&theme=tokyonight&hide=ruby,c,assembly,m4" alt="Top Langs" style="height: 150px" />
 </div>
 
 <!---
