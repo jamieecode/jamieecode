@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1200&color=1A28AE&center=true&vCenter=true&width=520&lines=Frontend+to+Fullstack+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=28&pause=1200&color=6495ED&center=true&vCenter=true&width=520&lines=Hello+World!" />
 </p>
 
 <br/>
