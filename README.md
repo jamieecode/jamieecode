@@ -45,11 +45,4 @@ background: linear-gradient(
   rgba(180,180,255,0.6),
   rgba(255,255,255,0)
 );" />
-
 <br/>
-
-<!-- Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamieecode&show_icons=true&theme=tokyonight&hide=stars,contribs&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamieecode&layout=compact&theme=tokyonight&hide=ruby,c,assembly,m4" height="150" />
-</p>
