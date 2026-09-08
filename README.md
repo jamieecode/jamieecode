@@ -25,47 +25,51 @@
 <br/>
 <!-- Tech Stack -->
 <p align="center"><b>🛠 Tech Stack</b></p>
-<p align="center">
-  <sub><b>Frontend</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript" />
-</p>
-<p align="center">
-  <sub><b>Backend & DB</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,prisma" />
-</p>
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" style="border: none;">
+      <sub><b>Frontend</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,javascript" />
+    </td>
+    <td align="center" style="border: none;">
+      <sub><b>Backend & DB</b></sub><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,prisma" />
+    </td>
+  </tr>
+</table>
 <br/>
 <!-- Featured Projects -->
 <p align="center"><b>🚀 Featured Projects</b></p>
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="#">
-        <img src="https://opengraph.githubassets.com/1/jamieecode/fragnote" width="100%"/>
-      </a>
-      <br/>
+    <td width="50%" align="center" valign="top" style="border: none;">
       <b>🌸 Fragnote</b><br/>
       <sub>향수 취향을 기록하고 나만의 향수를 찾아가는 사이드 프로젝트</sub>
+      <br/><br/>
+      <a href="https://github.com/jamieecode/fragnote"><img src="https://img.shields.io/badge/View%20Project-6495ED?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br/><br/>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/jamieecode/jamieecode/main/assets/fragnote.png" width="100%"/>
+      </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/jamieecode/fragnote"><img src="https://img.shields.io/badge/View%20Project-6495ED?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <a href="#">
-        <img src="https://opengraph.githubassets.com/1/jamieecode/yarn-stash-tracker" width="100%"/>
-      </a>
-      <br/>
-      <b>🧶 yarn project tracker</b><br/>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <b>🧶 Yarn Tracker</b><br/>
       <sub>뜨개질/코바늘 프로젝트와 실 재고를 관리하는 앱</sub>
+      <br/><br/>
+      <a href="https://github.com/jamieecode/yarn-stash"><img src="https://img.shields.io/badge/View%20Project-6495ED?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <br/><br/>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/jamieecode/jamieecode/main/assets/yarn-tracker.png" width="100%"/>
+      </a>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      <br/><br/>
-      <a href="https://github.com/jamieecode/yarn-stash"><img src="https://img.shields.io/badge/View%20Project-6495ED?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
